@@ -1,7 +1,7 @@
 # Tokyo60 Keymap
 This is my preferred keymap for the [Tokyo60](tokyo60) HHKB-style keyboard.
 
-[How To Flash Your Tokyo60](howto flash)
+[How To Flash Your Tokyo60][howto flash]
 
 ### Layer 0
 
