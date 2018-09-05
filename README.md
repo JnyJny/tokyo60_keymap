@@ -1,2 +1,1 @@
-# tokyo60_keymap
-Tokyo60 HHKB-Style QMK Keymap
+# Tokyo60 Keymap
