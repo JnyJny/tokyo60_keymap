@@ -18,4 +18,4 @@ This is my preferred keymap for the [Tokyo60](tokyo60) HHKB-style keyboard.
 [qmk tokyo60]: https://github.com/qmk/qmk_firmware/tree/master/keyboards/tokyo60
 [tokyo60]: http://tokyokeyboard.com
 [massdrop]: https://www.massdrop.com/buy/massdrop-x-tokyo-keyboard-tokyo60-keyboard-kit#overview
-[howto flash]: https://github.com/jnyjny/tokyo60_keymap/firmware
+[howto flash]: https://github.com/JnyJny/tokyo60_keymap/tree/master/firmware
