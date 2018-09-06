@@ -10,7 +10,7 @@ using these tools:
 * [QMK Configurator][qmk conf]
 * [QMK Toolbox][qmk toolbox]
 
-### TL;DR
+### 9 Easy Steps to Flash QMK Firmware on your Tokyo60
 
 1. Download and install [QMK Toolbox][qmk toolbox] for your operating system.<p>
 
