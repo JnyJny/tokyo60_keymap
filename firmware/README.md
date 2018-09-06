@@ -12,27 +12,26 @@ using these tools:
 
 ### TL;DR
 
-1. Download and install [QMK Toolbox][qmk toolbox] for your computer.<p>
+1. Download and install [QMK Toolbox][qmk toolbox] for your operating system.<p>
 
 1. Use the [QMK Configurator][qmk conf] to define keycodes in your keymap.
-
-  * Read the [docs][qmk keys] to learn about keycodes.
-  * Your keymap should define **L_SHIFT**, **R_SHIFT** and **PAUSE**
-  * There is no **FN** key for function, try **MO(1)** instead.
-  * Give your keymap a name to make it easier to find.<p>
+   * Read the [docs][qmk keys] to learn about keycodes.
+   * Your keymap should define **L_SHIFT**, **R_SHIFT** and **PAUSE**
+   * There is no **FN** key for function, try **MO(1)** instead.
+   * Give your keymap a name to make it easier to find.
    
-1. Click **Compile** and then **Download Firmware**.<p>
+1. Click **Compile**, wait and then **Download Firmware**.
    
 1. Start **QMK Toolbox**
-  * Click **Open** and select your downloaded firmware.
-  * Select **atmega32u4** in the microcontroller pulldown menu.<p>
+   * Click **Open** and select your downloaded firmware.
+   * Select **atmega32u4** in the microcontroller pulldown menu.
    
 1. Put your Tokyo60 into boot loader mode using **L_SHIFT+R_SHIFT+PAUSE**.
-  * The default keymap defines **PAUSE** as **FN+p**.<p>
-1. You should see "DFU  device connected" in **QMK Toolbox**.<p>
-1. Click the **Flash** button in QMK Toolbox.<p>
-1. Wait for a "device disconnected" message.<p>
-1. Test out your new keymap!<br>
+   * The default keymap defines **PAUSE** as **FN+p**.
+1. You should see "DFU  device connected" in **QMK Toolbox**.
+1. Click the **Flash** button in QMK Toolbox.
+1. Wait for a "device disconnected" message.
+1. Test out your new keymap!
 
 ### It Did Not Work
 If your keymap doesn't work or the bootloader key combo,
@@ -41,8 +40,8 @@ If your keymap doesn't work or the bootloader key combo,
 Get out your trusty Philips screwdriver and take the bottom plate off
 your keyboard.  With the keyboard upside down, the purple reset button
 is on the right hand side in the middle of the board. With **QMK Toolbox**
-running, push and release the reset button and you will see a device
-connected message.
+running and the keyboard plugged in, push and release the reset button
+and you will see a device connected message.
 
 Go back and check your keymap to make sure you have a **L_SHIFT**, **R_SHIFT**
 and **PAUSE**. 
