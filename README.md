@@ -13,6 +13,15 @@ This is my preferred keymap for the [Tokyo60](tokyo60) HHKB-style keyboard.
 [layer_0]: https://github.com/JnyJny/tokyo60_keymap/blob/master/layout/layer-0.png
 [layer_1]: https://github.com/JnyJny/tokyo60_keymap/blob/master/layout/layer-1.png
 
+### Helpful links:
+
+* [keyboard-layout-editor.com][layout editor] - makes pretty pictures
+* [QMK Configurator][qmk config] - builds firmware easily
+* [QMK Toolbox][qmk toolbox] - installs firmware easily
+* [Massdrop Tokyo60][massdrop] - get a Tokyo60 
+* [Tokyo60 Website][tokyo60] 
+
+
 [qmk config]: https://config.qmk.fm
 [layout editor]: http://www.keyboard-layout-editor.com
 [qmk tokyo60]: https://github.com/qmk/qmk_firmware/tree/master/keyboards/tokyo60
