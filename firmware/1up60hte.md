@@ -27,8 +27,8 @@ I was able to flash the 1up60hte the firmware generated from this
 [keymap layout][3] without difficulties.
 
 
-0: https://www.1upkeyboards.com/shop/controllers/1up-rgb-60-pcb-hte/
-1: https://config.qmk.fm/#/1upkeyboards/1up60hte/LAYOUT_tsangan
-2: https://config.qmk.fm/#/1upkeyboards/1up60hte/LAYOUT_60_hhkb
-3: https://github.com/JnyJny/tokyo60_keymap/blob/master/firmware/1up60hte_keymap.json
+[0]: https://www.1upkeyboards.com/shop/controllers/1up-rgb-60-pcb-hte/
+[1]: https://config.qmk.fm/#/1upkeyboards/1up60hte/LAYOUT_tsangan
+[2]: https://config.qmk.fm/#/1upkeyboards/1up60hte/LAYOUT_60_hhkb
+[3]: https://github.com/JnyJny/tokyo60_keymap/blob/master/firmware/1up60hte_keymap.json
 
