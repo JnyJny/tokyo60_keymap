@@ -26,6 +26,6 @@ This is my preferred keymap for the [Tokyo60](tokyo60) HHKB-style keyboard.
 [layout editor]: http://www.keyboard-layout-editor.com
 [qmk tokyo60]: https://github.com/qmk/qmk_firmware/tree/master/keyboards/tokyo60
 [qmk toolbox]: https://qmk.fm/toolbox
-[tokyo60]: http://tokyokeyboard.com
+[tokyo60]: https://tokyokeyboard.com/tokyo60/
 [massdrop]: https://www.massdrop.com/buy/massdrop-x-tokyo-keyboard-tokyo60-keyboard-kit#overview
 [howto flash]: https://github.com/JnyJny/tokyo60_keymap/tree/master/firmware
