@@ -1,7 +1,7 @@
 # 1UP Keyboard RGB 60% HTE™ (Hotswap Tsangan Edition)
 
 I bought a [1UP 60% Hotswap Tsangan Edition PCB][0] (1up60hte) to
-replace a USB-C version of the Tokyo60 PCB with an intermittant fault
+replace a USB-C version of the Tokyo60 PCB with an intermittent fault
 in the USB connector. The price of the 1up60hte was comparable to the
 Tokyo60 and had the same feature set (RGB, HHKB compatible, USB-C
 connector). Various internet reports indicated this board would work
