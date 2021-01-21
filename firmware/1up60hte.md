@@ -16,12 +16,12 @@ The 1up60hte board has a silver reset button located on the bottom
 of the board, located near the space bar. This button is used to
 place the board into DFU mode to flash on new firmware. 
 
-The board arrived with firmware installed, which seemed to be the
-[Tsangan layout][1]. The Tsangan layout differs slightly from the
-[HHKB][2] layout (left/right control in R4). At the time of this
-writing, selecting the HHKB layout would result in an empty keymap
-(all the keys were present, but not assigned keycodes). It's just
-a matter of assigning keys to the keymap, but still sort of inconvenient.
+The board arrived with firmware configured for the [Tsangan layout][1].
+The Tsangan layout differs slightly from the [HHKB][2] layout 
+(left/right control in R4). At the time of this writing, selecting
+the HHKB layout would result in an empty keymap (all the keys were present,
+but not assigned keycodes). It's just a matter of assigning keys to the
+keymap, but still sort of inconvenient.
 
 I was able to flash the 1up60hte the firmware generated from this
 [keymap layout][3] without difficulties.
