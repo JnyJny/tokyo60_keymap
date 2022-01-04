@@ -23,7 +23,7 @@ the HHKB layout would result in an empty keymap (all the keys were present,
 but not assigned keycodes). It's just a matter of assigning keys to the
 keymap, but still sort of inconvenient.
 
-I was able to flash the 1up60hte the firmware generated from this
+I was able to flash the 1up60hte with the firmware generated from this
 [keymap layout][3] without difficulties.
 
 
